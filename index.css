@@ -1,0 +1,22 @@
+div {
+
+    text-align: center;
+    background-color: green;
+    color: red;
+    margin-right: 5px;
+    padding: 5px;
+    border: 15px solid red;
+
+}
+
+h1 {
+    font-size: 70px;
+}
+h2 {
+    font-size: 50px;
+}
+
+li{
+    text-decoration-style: none;
+    color: gold;
+}
